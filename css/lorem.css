@@ -1,0 +1,83 @@
+.banner
+    {
+       
+       height: 550px;
+       width: 100%;
+       top: 50%;
+       background-position: center;
+       background-size: cover;
+
+    }
+    .navbar-brand{
+      margin-left: 150px;
+    }
+
+    .navbar
+    {
+      
+      background: #116bef;
+      height: 50px;
+
+    }
+    .navbar-nav li{
+      padding: 0 10px;
+
+
+    }
+    .navbar-nav li a
+    {
+      color: #fff;
+      font-weight: 600;
+      font-size: 20px;
+
+    }
+    .navbar-nav li a:hover{
+      color: #133c5a;
+      background-color:#ddc57c ;
+      height: 100%;
+         }
+    .moblogo{
+      display: none;
+
+
+    }
+    .login{
+      background: #ea3c3c;
+      color: white;
+      border-radius:0 3px 5px;
+    }
+
+    .login h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+    }
+    .login input{
+           width: 278px;
+           height: 35px;
+           font-size: 17px;
+           border-radius: 11px;
+           font-family: cursive;
+           background: transparent;
+           color: blue;
+    }
+    .login button{
+      width: 112px;
+      height: 32px;
+      border-radius: 0 30px;
+      background: red;
+      color: black;
+      font-family: cursive;
+      font-size: 16px;
+
+    }
+
+    
+.a{
+    height: 700px;
+    width: 400px;
+    border: 2px solid  black;
+
+  }
+
+    
